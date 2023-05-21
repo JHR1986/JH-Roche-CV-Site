@@ -138,6 +138,14 @@ body {
     padding: 40px; 
 }
 
+.personalinterests{
+    color: #fff;
+}
+
+.personalinterests h4{
+    color: #03a9f4;
+}
+
 .about {
     margin-bottom: 50px;
 }
